@@ -1,0 +1,48 @@
+body { 
+      text-align: center; 
+      background-color: #FFFAF0; 
+      font-family: Helvetica, sans-serif;
+      margin: central;
+    }
+
+ nav {
+      background color: darkgreen
+      padding: 50px
+}
+            
+    Nav ul {
+        list-style-type: none;
+        margin: 20px;
+                padding: 10px;
+                display: flex;
+                justify-content: center; 
+                align-items: center;
+            }
+            
+            nav ul li {
+            margin-right: 20px;
+            }
+            
+             nav ul li a {
+            text-decoration: none;
+            color: green;
+            font-weight: bold;
+            font-family: 'Helvetica', 'Arial', sans-serif;
+        }
+
+        nav ul li a:hover {
+            color: yellowgreen;
+  }
+        .active {
+            background-color: #97CD9C;
+            padding: 10px;
+            border-radius: 10px;
+            color: white
+        }
+
+    cite {
+            font-size: 12px; 
+            color: gray; 
+        }
+
+    
